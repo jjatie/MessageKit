@@ -22,6 +22,7 @@
  SOFTWARE.
  */
 
+import CoreGraphics.CGBase
 import Foundation
 
 open class AudioMessageSizeCalculator: MessageSizeCalculator {

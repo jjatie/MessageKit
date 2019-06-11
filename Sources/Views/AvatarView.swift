@@ -22,7 +22,9 @@
  SOFTWARE.
  */
 
+import CoreGraphics.CGBase
 import Foundation
+import UIKit.UIImageView
 
 open class AvatarView: UIImageView {
 

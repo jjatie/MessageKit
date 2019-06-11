@@ -25,6 +25,8 @@
 import Foundation
 import CoreLocation
 import AVFoundation
+import UIKit.UIImage
+
 @testable import MessageKit
 
 struct MockLocationItem: LocationItem {

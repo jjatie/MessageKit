@@ -22,7 +22,9 @@
  SOFTWARE.
  */
 
+import CoreGraphics.CGBase
 import Foundation
+import UIKit.UIMenuController
 
 internal extension MessagesViewController {
 

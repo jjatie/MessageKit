@@ -23,6 +23,7 @@
  */
 
 import Foundation
+import UIKit.UIColor
 
 // swiftlint:disable explicit_acl
 

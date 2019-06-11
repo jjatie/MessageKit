@@ -22,6 +22,7 @@
  SOFTWARE.
  */
 
+import CoreGraphics.CGBase
 import Foundation
 
 open class LocationMessageSizeCalculator: MessageSizeCalculator {

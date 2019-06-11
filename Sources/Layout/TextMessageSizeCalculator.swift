@@ -23,6 +23,7 @@
  */
 
 import Foundation
+import UIKit.UIGeometry
 
 open class TextMessageSizeCalculator: MessageSizeCalculator {
 

@@ -22,6 +22,7 @@
  SOFTWARE.
  */
 
+import CoreGraphics.CGBase
 import Foundation
 
 /// A protocol used by the `MessagesCollectionViewFlowLayout` object to determine

@@ -26,6 +26,7 @@ import Quick
 import Nimble
 import InputBarAccessoryView
 @testable import MessageKit
+import UIKit.UIScrollView
 
 //swiftlint:disable function_body_length
 final class MessagesViewControllerSpec: QuickSpec {

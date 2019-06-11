@@ -23,6 +23,7 @@
  */
 
 import Foundation
+import UIKit.UIGeometry
 
 // swiftlint:disable explicit_acl
 

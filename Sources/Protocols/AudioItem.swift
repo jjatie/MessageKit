@@ -23,6 +23,8 @@
  */
 
 import class AVFoundation.AVAudioPlayer
+import CoreGraphics.CGBase
+import Foundation
 
 /// A protocol used to represent the data for an audio message.
 public protocol AudioItem {

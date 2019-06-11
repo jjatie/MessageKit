@@ -23,6 +23,8 @@
  */
 
 import Foundation
+import UIKit.UIGeometry
+import UIKit.UICollectionViewLayout
 
 open class ContactMessageSizeCalculator: MessageSizeCalculator {
     

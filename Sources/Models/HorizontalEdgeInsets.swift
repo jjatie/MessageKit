@@ -22,6 +22,7 @@
  SOFTWARE.
  */
 
+import CoreGraphics.CGBase
 import Foundation
 
 /// A varient of `UIEdgeInsets` that only has horizontal inset properties
